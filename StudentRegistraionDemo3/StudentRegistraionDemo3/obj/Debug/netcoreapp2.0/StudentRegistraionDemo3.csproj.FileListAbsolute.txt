@@ -1,0 +1,11 @@
+J:\Web Protocols\Examples\StudentRegistraionDemo3\StudentRegistraionDemo3\bin\Debug\netcoreapp2.0\StudentRegistraionDemo3.deps.json
+J:\Web Protocols\Examples\StudentRegistraionDemo3\StudentRegistraionDemo3\bin\Debug\netcoreapp2.0\StudentRegistraionDemo3.runtimeconfig.json
+J:\Web Protocols\Examples\StudentRegistraionDemo3\StudentRegistraionDemo3\bin\Debug\netcoreapp2.0\StudentRegistraionDemo3.runtimeconfig.dev.json
+J:\Web Protocols\Examples\StudentRegistraionDemo3\StudentRegistraionDemo3\bin\Debug\netcoreapp2.0\StudentRegistraionDemo3.dll
+J:\Web Protocols\Examples\StudentRegistraionDemo3\StudentRegistraionDemo3\bin\Debug\netcoreapp2.0\StudentRegistraionDemo3.pdb
+J:\Web Protocols\Examples\StudentRegistraionDemo3\StudentRegistraionDemo3\obj\Debug\netcoreapp2.0\StudentRegistraionDemo3.csprojResolveAssemblyReference.cache
+J:\Web Protocols\Examples\StudentRegistraionDemo3\StudentRegistraionDemo3\obj\Debug\netcoreapp2.0\StudentRegistraionDemo3.csproj.CoreCompileInputs.cache
+J:\Web Protocols\Examples\StudentRegistraionDemo3\StudentRegistraionDemo3\obj\Debug\netcoreapp2.0\StudentRegistraionDemo3.AssemblyInfoInputs.cache
+J:\Web Protocols\Examples\StudentRegistraionDemo3\StudentRegistraionDemo3\obj\Debug\netcoreapp2.0\StudentRegistraionDemo3.AssemblyInfo.cs
+J:\Web Protocols\Examples\StudentRegistraionDemo3\StudentRegistraionDemo3\obj\Debug\netcoreapp2.0\StudentRegistraionDemo3.dll
+J:\Web Protocols\Examples\StudentRegistraionDemo3\StudentRegistraionDemo3\obj\Debug\netcoreapp2.0\StudentRegistraionDemo3.pdb
